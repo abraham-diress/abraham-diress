@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am Abraham! CS student at the [African Leadership Univeristy](https://www.instagram.com/alueducation/). I am interested in ML, Neuroscience, and Cooking :).
-- Past Intern at [Eskalate](https://eskalate.io/) and [Think-it](https://think-it.io/)
+- Former SWE intern at [Eskalate](https://eskalate.io/) and Data Science and ML intern [Think-it](https://think-it.io/)
 
 - Wanna 💬? I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/)
 - I love ⚽ (not a bad striker 😃) and 🌿 discussing about productivity and growth 🚀

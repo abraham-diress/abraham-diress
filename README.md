@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am Abraham! CS student at the [African Leadership Univeristy](https://www.instagram.com/alueducation/). I am interested in ML, Neuroscience, and Cooking :).
+- I am Abraham! third-year CS student at the [African Leadership Univeristy](https://www.instagram.com/alueducation/). I am interested in ML, Neuroscience, and Cooking :).
 - Former SWE intern at [Eskalate](https://eskalate.io/) and Data Science and ML intern [Think-it](https://think-it.io/)
 
 - Wanna 💬? I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/elshadai-tegegn/)

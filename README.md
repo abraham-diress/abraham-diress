@@ -1,31 +1,22 @@
-<h1 align="center">Hi, I'm Abraham 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%2B+Backend+Engineer;Building+Agentic+RAG+Systems;M.S.+Data+Science+%40+Fordham" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/abrahamdiress"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:tadesseabraham50@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/abraham-diress"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-👨‍💻 About me
-<table> <tr> <td valign="top" width="55%">
-🎓  Research Assistant @ Fordham University (M.S. Data Science)
-💼  Software Engineer — Backend Systems & AI Engineering
-🧠  Focused on LLMs, agentic systems, distributed systems & security
-🌱  Also into open source, algorithms & competitive programming
-</td> <td valign="top" width="45%">
-Outside of code
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Abraham%20Tadesse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descAlignY=58&descSize=18" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=building+agentic+RAG+systems;LLMs+%2B+distributed+systems+%2B+security;probably+debugging+a+trace+right+now" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/abrahamdiress">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:tadesseabraham50@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/abraham-diress">GitHub</a> </p> <br/>
+$ whoami
+Research Assistant @ Fordham University — M.S. Data Science
+AI Engineer focused on LLMs, agentic systems, distributed systems & security
+off duty  →  ⚽ football   🥾 hiking   🏓 paddle
+<br/>
+⚡ building
+DocIntel — an agentic RAG platform where a LangGraph agent plans before it retrieves, NeMo Guardrails screens every request, and every LLM call runs through a Portkey gateway instead of a bare SDK client. FastAPI LangGraph Qdrant Groq Portkey Docker
 
-⚽  Football
-🥾  Hiking
-🏓  Paddle
-</td> </tr> </table>
-📌 Other projects
-<table> <tr> <td width="50%" valign="top">
-🏥 HealTech Flutter + Firebase mobile app connecting patients with doctors and hospitals in Kigali, Rwanda. Flutter Dart Firebase
+<br/>
+🗂 also shipped
+→ HealTech — Flutter + Firebase app connecting patients with doctors & hospitals in Kigali, Rwanda Flutter Firebase
 
-</td> <td width="50%" valign="top">
-😴 Driver Drowsiness Detection Real-time fatigue detection from facial/eye landmarks using computer vision. Python OpenCV ML
+→ Driver Drowsiness Detection — real-time fatigue detection from facial/eye landmarks Python OpenCV
 
-</td> </tr> <tr> <td width="50%" valign="top">
-▶️ yt-clone Video-processing microservice that transcodes uploads to 360p and pushes them to Google Cloud Storage. TypeScript GCP Microservices
+→ yt-clone — video-processing microservice, transcodes to 360p and ships to GCS TypeScript GCP
 
-</td> <td width="50%" valign="top">
-✅ Task Tracker A Vue-based task management app for organizing and tracking work items. Vue JavaScript
+→ Task Tracker — Vue task management app Vue
 
-</td> </tr> </table>
-🛠️ Tech stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,typescript,js,vue,cpp,docker,aws,gcp,firebase&theme=dark" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abraham-diress&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abraham-diress&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-diress&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <i>Build. Learn. Ship. Repeat. 🚀</i> </p>
+<br/>
+🧰 stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,typescript,js,vue,flutter,dart,cpp,docker,aws,gcp,firebase,git&theme=dark" /> </p> <br/> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abraham-diress&theme=midnight-purple&hide_border=true&background=00000000" height="150"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/> </p>

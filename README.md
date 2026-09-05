@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abrahamdiress">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:tadesseabraham50@gmail.com">Email</a>
+  <a href="mailto:abraham.diress.codes@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/abraham-diress">GitHub</a>
 </p>

@@ -21,7 +21,7 @@ $ whoami
 ```
 ```
 Research Assistant @ Fordham University — M.S. Data Science
-AI Engineer focused on LLMs, agentic systems, distributed systems & security
+Software Engineer focused on LLMs, agentic systems, distributed systems & security
 
 off duty  →  ⚽ football   🥾 hiking   🏓 paddle
 ```
